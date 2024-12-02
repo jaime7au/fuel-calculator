@@ -1,0 +1,21 @@
+[
+    {
+      "unitNumber": 45,
+      "plate": "C-516-BYN",
+      "vehicleType": "FUSO",
+      "indicator": 23
+    },
+    {
+      "unitNumber": 46,
+      "plate": "C-517-XYZ",
+      "vehicleType": "HINO",
+      "indicator": 18
+    },
+    {
+      "unitNumber": 47,
+      "plate": "C-518-ABC",
+      "vehicleType": "HYUNDAI",
+      "indicator": 20
+    }
+  ]
+  
