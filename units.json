@@ -249,6 +249,13 @@
     "plate": "C-665-BWV",
     "vehicleType": "INTERNACIONAL",
     "indicator": 23
+  },
+
+  {
+    "unitNumber": 12,
+    "plate": "C-362-BTC",
+    "vehicleType": "KIA",
+    "indicator": 37
   }
 
 
